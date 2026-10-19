@@ -1,0 +1,24 @@
+# --- LLM / API ---
+groq>=0.30.0
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-groq>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+
+# --- Retrieval ---
+langchain-chroma>=0.2.0
+langchain-huggingface>=0.1.0
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+
+# --- Logging / Storage ---
+pyairtable>=2.3.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+
+# --- Evaluation ---
+deepeval>=2.0.0
+
+# --- UI ---
+streamlit>=1.38.0
