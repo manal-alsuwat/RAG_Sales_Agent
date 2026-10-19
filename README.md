@@ -4,7 +4,7 @@ An AI-powered sales assistant for Beamdata that combines Retrieval-Augmented Gen
 
 ## 🌐 Live Demo
 
-🔗 **[Open the app on Streamlit Cloud]([https://YOUR-APP-URL.streamlit.app](https://fhfem7vdhbg3rnmfqkme4u.streamlit.app/))**
+🔗 **[Open the app on Streamlit Cloud]([https://YOUR-APP-URL.streamlit.app](https://fhfem7vdhbg3rnmfqkme4u.streamlit.app))**
 
 ---
 
