@@ -133,7 +133,6 @@ RAG_Sales_Agent/
 ├── .streamlit/
 │   └── config.toml              # Streamlit theme
 ├── .env.example
-├── .gitignore
 ├── requirements.txt
 └── README.md
 ```
